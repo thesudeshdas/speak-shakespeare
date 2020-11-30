@@ -2,13 +2,13 @@
 A translation app to convert plain new boring English to the Shakespeare's awesome easy English.
 
 ### Live Preview
-Ctrl + [Click Here!](https://dash-speak-banana.netlify.app/) to see live preview.
+Ctrl + [Click Here!](https://dash-speak-shakespeare.netlify.app/) to see live preview.
 
 ### Motivation
 The project is made to understand the basics of JavaScript (VanillaJS) and APIs, under [NeoGCamp](https://neog.camp/)'s levelZero by [Tanay Pratap](https://tanaypratap.com/).
 
 ### Demo
-![Demo 1 pic](https://github.com/thesudeshdas/speak-banana/blob/master/demo/demo1.png)
+![Demo 1 pic](https://github.com/thesudeshdas/speak-shakespeare/blob/master/demo/demo1.png)
 
 ### Tech Used
 * HTML
