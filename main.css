@@ -1,14 +1,14 @@
-@import url('https://fonts.googleapis.com/css2?family=Gugi&family=Lato&family=Major+Mono+Display&family=Montserrat&family=Pacifico&family=Piedra&family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gugi&family=Lato&family=Major+Mono+Display&family=Montserrat&family=Dancing+Script&family=Piedra&family=Roboto&display=swap');
 
 :root {
     font-family: 'Roboto', sans-serif;
     
-    --bg-white: white;
-    --theme-primary: #FBBF24;
-    --theme-secondary: #FEF3C7;
+    --bg-white: #DDD6FE;
+    --theme-primary: #5B21B6;
+    --theme-secondary: #EDE9FE;
     --text-primary: #000000;
     --text-secondary: #ffffff;
-    --text-blue: #3B82F6;
+    --text-white: #F5F3FF;
     
 }
 
@@ -16,22 +16,24 @@ body, html {
     height: 100%;
     margin: 0;
     padding: 0;
-    background-color: #FEF3C7;
+    background-color: var(--theme-secondary);
 }
 
 h1 {
     margin: 0;
+    font-weight: 900;
 }
 
 /* navbar */
 nav {
     background-color: var(--theme-primary);
-    color: var(--text-blue);
+    color: var(--text-white);
     padding: 0 1rem 0.2rem 1rem;
 }
 
 .heading-nav {
-    font-family: 'Pacifico', cursive;
+    font-family: 'Dancing Script', cursive;
+    font-weight: 900;
     font-size: 2rem;
     text-align: center;
     padding-top: 1rem;
@@ -58,16 +60,16 @@ ul li {
 /* link */
 a {
     text-decoration: none;
-    color: var(--text-blue);
+    color: var(--text-white);
 }
 
 /* button */
 button {
     display: block;
     margin: auto;
-    border: 3px solid var(--text-blue);
+    border: 3px solid var(--text-white);
     background-color: var(--theme-primary);
-    color: var(--text-blue);
+    color: var(--text-white);
     font-size: 1.5rem;
     font-weight: 900;
     padding: 0.5rem 1rem;
@@ -94,7 +96,7 @@ footer {
     padding-top: 1rem;
     margin-top: 1rem;
     width: 100%;
-    color: var(--text-blue);
+    color: var(--text-white);
 }
 
 .heading-footer {
