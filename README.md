@@ -8,7 +8,7 @@ Ctrl + [Click Here!](https://dash-speak-shakespeare.netlify.app/) to see live pr
 The project is made to understand the basics of JavaScript (VanillaJS) and APIs, under [NeoGCamp](https://neog.camp/)'s levelZero by [Tanay Pratap](https://tanaypratap.com/).
 
 ### Demo
-![Demo 1 pic](https://github.com/thesudeshdas/speak-shakespeare/blob/master/demo/demo1.png)
+![Demo 1 pic](https://github.com/thesudeshdas/speak-shakespeare/blob/master/demo/demo1.jpg)
 
 ### Tech Used
 * HTML
